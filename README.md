@@ -1,3 +1,3 @@
 # Aurelia-UX-Standards
 
-[See Wiki](wiki)
+##[See Wiki](https://github.com/joelcoxokc/Aurelia-UX-Standards/wiki)
